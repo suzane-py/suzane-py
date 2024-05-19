@@ -1,20 +1,23 @@
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="40" height=""> Oi, eu sou Suzane! 👩‍💻
+# <img src="https://gifs4crds.carrd.co/assets/images/gallery01/77f848c5.gif?vca07fc73a" width="100" height=""> Oi, eu sou Suzane! 👩‍💻
 
 ### 👾 | Sobre mim
 * Estudante de Análise e Desenvolvimento de Sistemas;
 * Atualmente procurando por vagas de estágio.
 
-### 📚 | Estudando atualmente e áreas de interesse
+### 📚 | Aprendendo + áreas de interesse
 
 * **Desenvolvimento Back-end:**
-    1. Python e Django
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 * **Ferramentas:**
-    1. Visual Studio Code
-    2. Git
-    3. GitHub
-    4. Windows
+  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 * **Cibersegurança.**
 
+<img src="https://gifcity.carrd.co/assets/images/gallery38/7bf95592.gif?v=d55ea43d" width="" height="">
+
+
 ### 💬 | Fale comigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzane-vit%C3%B3ria-oliveira-rodrigues-6205292b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BL74ya%2FmaSXCqvm07muzczg%3D%3D) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](suzanerodrigues589@gmail.com)
