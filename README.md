@@ -4,7 +4,7 @@
 
 ### 👾 | Sobre mim
 * Estudante de Análise e Desenvolvimento de Sistemas;
-* Atualmente procurando por vagas de estágio.
+* Atualmente em busca de uma oportunidade de pôr meus conhecimentos em prática.
 
 ### 📚 | Aprendendo + áreas de interesse
 
