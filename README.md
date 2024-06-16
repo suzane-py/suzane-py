@@ -20,4 +20,4 @@
 
 
 ### 💬 | Fale comigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzane-vit%C3%B3ria-oliveira-rodrigues-6205292b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BL74ya%2FmaSXCqvm07muzczg%3D%3D) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzanerodrigues589@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzane-vitória-o-rodrigues) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzanerodrigues589@gmail.com)
